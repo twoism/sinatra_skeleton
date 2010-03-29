@@ -1,0 +1,1 @@
+Base Sinatra app with haml, rspec and initializer support. Uses some of the setup from sinatra_more but tailored for what I need.
